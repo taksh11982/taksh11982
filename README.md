@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hey, I'm Taksh!
@@ -135,23 +134,3 @@ public class Developer {
         }
     }
 }
-```
-
----
-
-## 📫 Let's Connect
-
-- 💼 Check out my repositories below ⬇️
-- 🌐 Explore my projects and feel free to contribute
-- 💡 Open to collaborations on interesting projects
-
----
-
-<div align="center">
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=taksh11982&color=3b82f6&style=flat-square)
-
-</div>
-```
